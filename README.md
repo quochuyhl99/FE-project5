@@ -1,4 +1,5 @@
-# Udacity Project: 
+# Udacity Project:
+
 # Front End Web Developer Nanodegree - Capstone Project: Travel Planner Web App
 
 # Overview
@@ -8,6 +9,7 @@ This is a single page web app, which includes a simple form where you enter the 
 It works by getting a desired trip location and date from the user, then displaying weather and an image of the location using information obtained from external APIs.
 
 # Versions
+
 ```
 $ node -v
 
@@ -15,13 +17,14 @@ Node version: 16.15.0
 ```
 
 # Build Setup
+
 ## Install dependencies
 
 ```
 $ npm install
 ```
 
-## Serve with hot reload at localhost:8082
+## Serve with hot reload at localhost:8080
 
 ```
 $ npm run build-dev
@@ -32,7 +35,6 @@ $ npm run build-dev
 ```
 $ npm run build-prod
 ```
-
 
 # Support tasks
 
@@ -47,5 +49,3 @@ $ npm run test
 ```
 $ npm run start
 ```
-
-
